@@ -1,0 +1,8 @@
+texthero
+SQLAlchemy
+mysql-connector-python
+pymysql
+en_core_web_sm
+tensorflow_hub
+gensim==3.8.3
+fasttext

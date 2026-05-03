@@ -1,0 +1,2 @@
+conda create -n search_engine python=3.8
+conda activate search_engine
